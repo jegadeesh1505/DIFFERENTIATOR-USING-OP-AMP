@@ -51,9 +51,11 @@ DIFFERENTIATOR
 
 TABULATION:
 
+![WhatsApp Image 2025-11-28 at 6 14 28 PM (1)](https://github.com/user-attachments/assets/0eaa9bb6-6d89-494a-89d9-512e005e4eda)
 
 GRAPH:
 
+![WhatsApp Image 2025-11-28 at 6 14 28 PM](https://github.com/user-attachments/assets/c776f42d-87be-4697-bf0f-c3145b9e1cd7)
 
 RESULT:
 
